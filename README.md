@@ -2,7 +2,7 @@
 * NoSQL (Not Only SQL)
 * SQL
 * ACID
-* BSE
+* BASE
 * Replication
 * Chunk
 * Rack
