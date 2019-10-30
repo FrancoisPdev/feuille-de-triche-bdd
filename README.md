@@ -13,6 +13,7 @@
 * Scalabilité
 * matrice multicritere
 * Shard(ing) (maître / esclave)
+* Moteur de recherche "Lucene"
 
 ### Base de donnée :
 * Stockage orienté clé/valeur
