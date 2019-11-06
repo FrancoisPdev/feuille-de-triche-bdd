@@ -1,4 +1,4 @@
-# Les verbes :
+# Les keywords :
 * NoSQL (Not Only SQL)
 * SQL
 * ACID
