@@ -3,6 +3,7 @@
 * SQL
 * ACID
 * BASE
+* ORM
 * Replication
 * Chunk
 * Rack
