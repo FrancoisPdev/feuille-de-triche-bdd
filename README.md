@@ -49,3 +49,4 @@
 # Liens utiles
 
 [DB-Engines](https://db-engines.com/en/articles)
+[SQLSH](https://sql.sh/)
