@@ -45,9 +45,18 @@
 * Basically Avaible
 * Soft state
 * Eventually consistent
+
+### Predefined Variables
+
+###### (PHP's)
+
+superglobal variables are 
+
+$_SERVER, $GLOBALS, $_REQUEST, $_POST, $_GET, $_FILES, $_ENV, $_COOKIE, $_SESSION.
+
 ***
 # Liens utiles
 
-[DB-Engines](https://db-engines.com/en/articles)
-[SQLSH](https://sql.sh/)
-[SQLBOLT](https://sqlbolt.com/)
+[DB-Engines](https://db-engines.com/en/articles)-
+[SQLSH](https://sql.sh/)-
+[SQLBOLT](https://sqlbolt.com/)-
